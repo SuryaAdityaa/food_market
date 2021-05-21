@@ -1,3 +1,1 @@
-# Fullstack Food Market using Flutter
-
-![Mobile Screenshot](screenshots/mobile.png)
+# Fullstack Food Market using Flutter and Laravel
